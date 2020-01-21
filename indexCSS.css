@@ -1,0 +1,66 @@
+.row {
+    background-color: #242966;
+    margin-bottom: 45px;
+}
+
+.headerRow {
+    margin-bottom: 45px;
+}
+
+.navigation {
+    text-align: center;
+}
+
+.nav-item {
+    color: black;
+}
+
+.myName {
+    background-color: #080C47;
+    opacity: 100%;
+    padding: 20px 20px 20px 20px;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    -webkit-text-stroke-width: .75px;
+    -webkit-text-stroke-color: black;
+}
+
+.largeBox {
+    height: 500px
+}
+
+.aboutMe {
+    margin: 0;
+    padding: 0, 0, 0, 0;
+    background-color: black;
+}
+
+.about-header {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.paragraph {
+    background-color: black;
+    color: white;
+}
+
+.picture {
+    background-color: black;
+}
+
+.footerRow {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #efefef;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
