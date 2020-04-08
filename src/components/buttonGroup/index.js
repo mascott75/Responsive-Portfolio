@@ -6,7 +6,7 @@ function buttonGroup() {
     return (
         <Row>
             <div className='col-sm-8 offset-sm-2 button-col'>
-                <Link to = "/about">
+                <Link to = "/">
                 <button type="button" id="about-me-btn" onClick="window.location.href='/contact'">About Me</button>
                 </Link>
                 <Link to = "/portfolio">
