@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Responsive-portfolio/static/css/main.4d8b5d04.chunk.css",
+    "main.js": "/Responsive-portfolio/static/js/main.09f1410c.chunk.js",
+    "main.js.map": "/Responsive-portfolio/static/js/main.09f1410c.chunk.js.map",
+    "runtime-main.js": "/Responsive-portfolio/static/js/runtime-main.7bfbd9f9.js",
+    "runtime-main.js.map": "/Responsive-portfolio/static/js/runtime-main.7bfbd9f9.js.map",
+    "static/js/2.b32cd597.chunk.js": "/Responsive-portfolio/static/js/2.b32cd597.chunk.js",
+    "static/js/2.b32cd597.chunk.js.map": "/Responsive-portfolio/static/js/2.b32cd597.chunk.js.map",
+    "index.html": "/Responsive-portfolio/index.html",
+    "precache-manifest.6e89e8f33f7fe85e9e577dc83d98db86.js": "/Responsive-portfolio/precache-manifest.6e89e8f33f7fe85e9e577dc83d98db86.js",
+    "service-worker.js": "/Responsive-portfolio/service-worker.js",
+    "static/css/main.4d8b5d04.chunk.css.map": "/Responsive-portfolio/static/css/main.4d8b5d04.chunk.css.map",
+    "static/js/2.b32cd597.chunk.js.LICENSE.txt": "/Responsive-portfolio/static/js/2.b32cd597.chunk.js.LICENSE.txt",
+    "static/media/Mason.PNG": "/Responsive-portfolio/static/media/Mason.f8474551.PNG",
+    "static/media/d&d.png": "/Responsive-portfolio/static/media/d&d.6d339f8a.png",
+    "static/media/insta.png": "/Responsive-portfolio/static/media/insta.097b7749.png",
+    "static/media/linkedin.png": "/Responsive-portfolio/static/media/linkedin.7fb99744.png",
+    "static/media/App.css": "/Responsive-portfolio/static/media/lofi.05b91e01.jpg",
+    "static/media/notebook.png": "/Responsive-portfolio/static/media/notebook.8eefb822.png",
+    "static/media/pokeball.png": "/Responsive-portfolio/static/media/pokeball.fc4fc386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bfbd9f9.js",
+    "static/js/2.b32cd597.chunk.js",
+    "static/css/main.4d8b5d04.chunk.css",
+    "static/js/main.09f1410c.chunk.js"
+  ]
+}
